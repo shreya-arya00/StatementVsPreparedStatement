@@ -1,4 +1,3 @@
-// Source code is decompiled from a .class file using FernFlower decompiler.
 import java.io.PrintStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
